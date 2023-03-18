@@ -10,16 +10,16 @@ fetch('src/camping_matt.xlsx')
       const card = document.createElement('div');
       card.classList.add('card');
       card.innerHTML = `
-        <img src="${item.img_link}" class="card-img-top" alt="${item.model_name}">
+        <img src="${item.img_link}" class="card-img-top img-fluid" alt="${item.model_name}">
         <div class="card-body">
         <h5 class = "card-title">${item.model_name}</h3>
-        <p class="card-text">${item.price}</p>
-        <p class="card-text">${item.r_value}</p>
-        <p class="card-text">${item.weight}</p>
-        <p class="card-text">${item.pack_dimension}</p>
-        <p class="card-text">${item.brand}</p>
-        <p class="card-text">${item.type}</p>
-        <a href=${item.url}$>link to purchase</a>
+        <p class="card-text">Price: ${item.price} CHF</p>
+        <p class="card-text">R-value: ${item.r_value}</p>
+        <p class="card-text">Weight: ${item.weight} g</p>
+        <p class="card-text">Pack dimension: ${item.pack_dimension}</p>
+        <p class="card-text">Brand: ${item.brand}</p>
+        <p class="card-text">Type: ${item.type}</p>
+        <a href=${item.url}$> link to purchase </a>
         </div>
       `
       cardsContainer.appendChild(card);
