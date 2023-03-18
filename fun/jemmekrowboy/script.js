@@ -17,12 +17,12 @@
 // 	})
 // 	.catch(error => console.error(error));
 
-fetch('camping_matt.csv')
+fetch('src/camping_matt.xlsx')
   .then(response => response.arrayBuffer())
   .then(data => {
-    const workbook = CSV.read(data, { type: 'array' });
+    const workbook = XLSX.read(data, { type: 'array' });
     const worksheet = workbook.Sheets[workbook.SheetNames[0]];
-    const items = CSV.utils.sheet_to_json(worksheet);
+    const items = XLSX.utils.sheet_to_json(worksheet);
 
     const cardsContainer = document.getElementById('cards-container');
     items.forEach(item => {
@@ -37,7 +37,7 @@ fetch('camping_matt.csv')
         <p>${item.pack_dimension}</p>
         <p>${item.brand}</p>
         <a href=${item.url}$>link to purchase</a>
-      `;
+      `
       cardsContainer.appendChild(card);
     });
   })
