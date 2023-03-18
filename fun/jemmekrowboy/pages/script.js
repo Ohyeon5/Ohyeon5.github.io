@@ -9,8 +9,8 @@ fetch('../src/camping_matt.xlsx')
     items.forEach(item => {
       const card = document.createElement('div');
       card.classList.add('card');
-      card.classList.add('col-4');
-      card.classList.add('col-lg-3');
+      card.classList.add('col-12');
+      card.classList.add('col-lg-6');
       card.innerHTML = `
         <img src="${item.img_link}" class="card-img-top img-fluid" alt="${item.model_name}">
         <div class="card-body">
