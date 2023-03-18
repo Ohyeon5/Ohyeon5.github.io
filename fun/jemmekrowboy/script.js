@@ -29,9 +29,14 @@ fetch('camping_matt.csv')
       const card = document.createElement('div');
       card.classList.add('card');
       card.innerHTML = `
-        <img src="${item.image}" alt="${item.title}">
-        <h3>${item.title}</h3>
-        <p>${item.description}</p>
+        <img src="${item.img_link}" alt="${item.model_name}">
+        <h3>${item.model_name}</h3>
+        <p>${item.price}</p>
+        <p>${item.r_value}</p>
+        <p>${item.weight}</p>
+        <p>${item.pack_dimension}</p>
+        <p>${item.brand}</p>
+        <a href=${item.url}$>link to purchase</a>
       `;
       cardsContainer.appendChild(card);
     });
