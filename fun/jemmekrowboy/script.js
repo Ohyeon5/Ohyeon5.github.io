@@ -1,22 +1,3 @@
-// fetch('data.json')
-// 	.then(response => response.json())
-// 	.then(data => {
-// 		const cardsContainer = document.getElementById('cards-container');
-
-// 		data.forEach(item => {
-// 			const card = document.createElement('div');
-// 			card.classList.add('card');
-// 			card.innerHTML = `
-// 				<img src="${item.image}" alt="${item.title}">
-// 				<h3>${item.title}</h3>
-// 				<p>${item.description}</p>
-// 			`;
-
-// 			cardsContainer.appendChild(card);
-// 		});
-// 	})
-// 	.catch(error => console.error(error));
-
 fetch('src/camping_matt.xlsx')
   .then(response => response.arrayBuffer())
   .then(data => {
@@ -29,14 +10,17 @@ fetch('src/camping_matt.xlsx')
       const card = document.createElement('div');
       card.classList.add('card');
       card.innerHTML = `
-        <img src="${item.img_link}" alt="${item.model_name}">
-        <h3>${item.model_name}</h3>
-        <p>${item.price}</p>
-        <p>${item.r_value}</p>
-        <p>${item.weight}</p>
-        <p>${item.pack_dimension}</p>
-        <p>${item.brand}</p>
+        <img src="${item.img_link}" class="card-img-top" alt="${item.model_name}">
+        <div class="card-body">
+        <h5 class = "card-title">${item.model_name}</h3>
+        <p class="card-text">${item.price}</p>
+        <p class="card-text">${item.r_value}</p>
+        <p class="card-text">${item.weight}</p>
+        <p class="card-text">${item.pack_dimension}</p>
+        <p class="card-text">${item.brand}</p>
+        <p class="card-text">${item.type}</p>
         <a href=${item.url}$>link to purchase</a>
+        </div>
       `
       cardsContainer.appendChild(card);
     });
