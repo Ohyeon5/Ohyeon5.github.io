@@ -1,4 +1,4 @@
-fetch('/fun/jemmekrowboy/src/camping_matt.xlsx')
+fetch('../src/camping_matt.xlsx')
   .then(response => response.arrayBuffer())
   .then(data => {
     const workbook = XLSX.read(data, { type: 'array' });
