@@ -1,4 +1,5 @@
 .card {
+	display: flexbox;
 	border: 1px solid #ccc;
 	border-radius: 5px;
 	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
@@ -6,12 +7,6 @@
 	padding: 10px;
 	width: 200px;
 }
-
-/* .card img {
-	display: block;
-	margin: 0 auto;
-	max-width: 100%;
-} */
 
 .card h3 {
 	font-size: 1.2em;
