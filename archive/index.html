@@ -35,6 +35,12 @@
             <h2> Google drive API from remote server </h2>
             <p> SCP to the local computer, then uploading to gdrive is often a big pain. </br>
                 Instead, we can use the gdrive command line tool. </br>
+                To install, follow the instructions in the <a href="https://github.com/glotlabs/gdrive">gdrive</a>. </br>
+                Remember to follow the instructions for the remote server. </br>
+                Then, you can upload files to the drive using the following commands. </br> </br>
+                First, find the drive id of the folder you want to upload to. </br>
+                <code> gdrive drives list </code> </br>
+                Then, upload the file using the following commands. </br>
                 <code> gdrive upload [filename] --parent [drive id]</code> </br>
                 <code> gdrive upload --recursive [foldername] --parent [drive id]</code> </br>
             </p>
