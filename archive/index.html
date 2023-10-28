@@ -41,8 +41,10 @@
                 First, find the drive id of the folder you want to upload to. </br>
                 <code> gdrive drives list </code> </br>
                 Then, upload the file using the following commands. </br>
-                <code> gdrive files upload [filename] --parent [drive id]</code> </br>
-                <code> gdrive files upload --recursive [foldername] --parent [drive id]</code> </br>
+                <code> gdrive files upload --parent [drive id] [filename] </code> </br>
+                <code> gdrive files upload --recursive [foldername] --parent [drive id]</code> </br></br>
+                To specify the directory of the file, [drive id] can be replacd with the directory's URL's last part. </br>
+
             </p>
 
             <h3> References </h3>
