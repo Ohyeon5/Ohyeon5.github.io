@@ -1,5 +1,5 @@
 ---
-date: 25th Apr 2026
+date: 2026-04-25
 author: Oh-hyeon Choung
 title: Oh-hyeon's Guide to Korea
 ---

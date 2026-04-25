@@ -20,3 +20,11 @@ repos:
       - id: ruff
         args: [--fix]
       - id: ruff-format
+
+  - repo: local
+    hooks:
+      - id: update-frontmatter-date
+        name: Update front matter date
+        entry: scripts/update_frontmatter_date.sh
+        language: script
+        types: [markdown]
