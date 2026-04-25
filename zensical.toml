@@ -1,0 +1,6 @@
+[project]
+site_name = "Oh-hyeon's Personal Page"
+site_url = "https://Ohyeon5.github.io"
+site_author = "Oh-hyeon Choung"
+copyright = "&copy; 2025 Oh-hyeon Choung"
+docs_dir = "docs"

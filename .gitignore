@@ -1,0 +1,5 @@
+# zensical residuals
+site/
+
+# python packages
+.venv/
