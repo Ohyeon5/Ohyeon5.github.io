@@ -2,5 +2,45 @@
 site_name = "Oh-hyeon's Personal Page"
 site_url = "https://Ohyeon5.github.io"
 site_author = "Oh-hyeon Choung"
-copyright = "&copy; 2025 Oh-hyeon Choung"
+copyright = "&copy; 2026 Oh-hyeon Choung"
 docs_dir = "docs"
+nav = [
+  {"Home" = "index.md"},
+  {"Korean Trip Guide" = [
+    "korea/index.md",
+    "korea/food.md"]}
+]
+
+[project.theme]
+features = [
+    "navigation.top",
+    "navigation.tabs"
+]
+
+[project.theme.icon]
+logo = "lucide/smile"
+
+# Palette toggle for light mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+# Palette toggle for dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+# caption
+[project.markdown_extensions.pymdownx.blocks.caption]
+
+# collapsible
+[project.markdown_extensions.pymdownx.details]
+
+# emoji
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
