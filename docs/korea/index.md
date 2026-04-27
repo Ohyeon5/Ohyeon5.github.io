@@ -6,49 +6,47 @@ title: Oh-hyeon's Guide to Korea
 ---
 # Oh-hyeon's Guide to Korea
 
-A disclaimer first, this is a very very personal recommendation list. I am not resposible of anything.
+A disclaimer first: this is a very, very personal recommendation list. I am not responsible for anything.
 
-## Must have Apps
-- Maps: Naver map or Kakao map (in theory Google map works now, but it's still more precise to use Korean native apps.)
-- Taxi/cabs: Kakao taxi, there could be others
+## Must-have Apps
+- Maps: Naver Map or Kakao Map (in theory Google Maps works now, but it’s still more precise to use Korean native apps)
+- Taxi/cabs: Kakao Taxi (there could be others)
 
 ## Social laws in Korea
--   No talking in the public transportations, bus, train, metro, etc. (whispering is fine)
--   No food/drinks in the public transportations
--   No public affection
--   No shoes indoors, and don’t put your feet on seats (transportations, bench in a park, etc.)
--   There’re priority seats for elderly, disabled people, and pregnant women (pink seats). Even if they are completely empty, don’t seat there.
--   Absolutely no jaywalking nor crossing the street in red lights
--   When giving and receive stuff, use two hands
--   Do not bow with hands together 🙏🏻 (It’s not Korean custom)
--   Don’t hug first time you meet someone
--   Be mindfull with japanese topics, as there is a long cultural history. Avoid “same as in japan?”
+- No talking in public transportation (bus, train, metro, etc.) — whispering is fine
+- No food/drinks in public transportation
+- No public displays of affection
+- No shoes indoors, and don’t put your feet on seats (transportation, benches in parks, etc.)
+- There are priority seats for the elderly, disabled people, and pregnant women (pink seats). Even if they are completely empty, don’t sit there
+- Absolutely no jaywalking or crossing the street at red lights
+- When giving and receiving items, use two hands
+- Do not bow with hands together 🙏🏻 (it’s not a Korean custom)
+- Don’t hug the first time you meet someone
+- Be mindful with Japanese-related topics, as there is a long cultural history. Avoid “same as in Japan?”
 
+## Transportation
+- Within Seoul: Naver Map or Kakao Map is extremely precise; either bus or metro should be straightforward to use
+- To get out of Seoul: there are trains and buses. For trains, you should book ahead of time, especially on weekends. Use the Korail app. Buses are slightly trickier, but there are often more options. Naver Map and Kakao Map should guide you well
+- Outside Seoul (countryside cities): don’t bother with public transport, just take Kakao Taxi (or similar). Taxis in Korea are very affordable
+- Renting cars is not a bad option outside Seoul. In Seoul, don’t even think about it
 
-## Transportations
-- within seoul - naver map or kakao map is extremely precise, either bus or metro should be obvious enough to take
-- to get out of seoul - there are trains and buses. For trains, you definitely need to book the train ahead of the time, especially if you are traveling on the weekends. Use Korail app. Buses are slightly more tricky, but there are often more buses. Naver map and Kakao Map should also guide you okay.
-- outside seoul, traveling in country side cities: don't bother, take kakao taxi (or whatever taxi). Taxis in Korea are very affordable.
-- Renting cars is not a bad option outside the seoul, in seoul, don't even think about it
-
-## Must dos in Seoul
+## Must-dos in Seoul
 - Hanbok & palace tour in Seoul
 - Seochon street trip (next to the palace area)
-- seodaemoon market for random items
-- Traditional markets (food/random homely things/souvenirs) - there are many, not only GwangZang market (GwangMyeong market)
-- tiktok trendy pop-up stores (sungsu) - personnally not a big fan, but it actually does mind blowing, maybe avoid weekends for this
+- Seodaemun Market for random items
+- Traditional markets (food / homely goods / souvenirs) — there are many, not only Gwangjang Market (also Gwangmyeong Market)
+- TikTok-trendy pop-up stores (Seongsu) — personally not a big fan, but they can be mind-blowing. Maybe avoid weekends
 
-## Interested cultural experiences
-- Jjimzilbang
-- Facial/hair care
-- Hiking - 70% of the Korean penisula is covered with mountains, but the hiking culture is very different from for example in Switzerland.
-    - follow the tracks (definitely no off-road)
-    - Gimbab +/ cup noodle is a must
-    - In more country side hiking paths, e.g., gyeryong mountain, you will find soooooooo many restaurants next to the hiking path, at the foot of the mountains. They all sell same dishes, spicy or mild chicken strew/soup (dakbokumtang or samgyetang), green onion pancake, and Korean rice wine (makguli)
-    - Koreans go hiking not to hike but to have these special dishes.
-- K-bbq (cook it by yourself): find a not-so-fancy places, where you need to cook by yourself. I believe you can do it :)
-
+## Interesting cultural experiences
+- Jjimjilbang
+- Facial / hair care
+- Hiking — 70% of the Korean peninsula is covered with mountains, but the hiking culture is very different from Switzerland, for example
+    - Follow the trails (definitely no off-road)
+    - Gimbap + cup noodles are a must
+    - In more countryside hiking areas (e.g., Gyeryong Mountain), you’ll find many restaurants along the paths, especially at the foot of the mountains. They all sell similar dishes: spicy or mild chicken stew/soup (dakbokkeumtang or samgyetang), green onion pancakes, and Korean rice wine (makgeolli)
+    - Koreans often go hiking not just to hike, but to enjoy these dishes
+- K-BBQ (cook it yourself): find a not-so-fancy place where you cook your own meat. I believe you can do it :)
 
 ## Nice additions
-- Jeju Island: if you are staying more than 2 weeks, definitely worth visiting. The most tourist place in Korea, even for Koreans, but you will know why it wort, once you are there. Beautiful Lava island with unique nature and cultural experiences (Hae-nyeo - free divers).
-- Jeonju/Kyeongju: Historical Korean places. Jeonju was the capital of ???. And Kyeongju was the capital of Sinla for ~ 1000 years (when?). Many historical touristic attractions and more Gen Z attractions (low-key), if you move out ~30 min from the main touristic attractions.
+- Jeju Island: if you are staying more than 2 weeks, definitely worth visiting. The most touristic place in Korea, even for Koreans — but you’ll understand why once you’re there. A beautiful volcanic island with unique nature and cultural experiences (haenyeo — free divers)
+- Jeonju / Gyeongju: historical Korean cities. Jeonju was a former capital of Later Baekje (후백제). Gyeongju was the capital of Silla for ~1000 years. Many historical attractions, plus some more low-key Gen Z spots if you go ~30 minutes away from the main tourist areas.
