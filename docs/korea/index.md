@@ -10,7 +10,7 @@ icon: lucide/map-pin-search
 A disclaimer first: this is just my personal take—treat it as suggestions and do whatever you want. I’m not responsible for anything.
 
 ## Must-have Apps
-- Maps: [Naver Map](https://map.naver.com) or [Kakao Map](https://map.kakao.com) (in theory Google Maps works now, but it’s still more precise to use Korean native apps)
+- Maps: [Naver Map](https://map.naver.com) or [Kakao Map](https://map.kakao.com) (in theory, Google Maps works now, but it’s still more precise to use Korean native apps)
 - Taxi/cabs: Kakao Taxi - [app store](https://apps.apple.com/us/app/kakao-t/id981110422), [google play](https://play.google.com/store/apps/details?id=com.kakao.taxi&pli=1) (there could be others)
 - Train: [Korail](https://www.korail.com/global/eng/main)
 
