@@ -3,26 +3,35 @@ created: 2026-04-25
 modified: 2026-04-27
 author: Oh-hyeon Choung
 title: Oh-hyeon's Guide to Korea
+icon: lucide/map-pin-search
 ---
 # Oh-hyeon's Guide to Korea
 
-A disclaimer first: this is a very, very personal recommendation list. I am not responsible for anything.
+A disclaimer first: this is just my personal take—treat it as suggestions and do whatever you want. I’m not responsible for anything.
 
 ## Must-have Apps
-- Maps: Naver Map or Kakao Map (in theory Google Maps works now, but it’s still more precise to use Korean native apps)
-- Taxi/cabs: Kakao Taxi (there could be others)
+- Maps: [Naver Map](https://map.naver.com) or [Kakao Map](https://map.kakao.com) (in theory Google Maps works now, but it’s still more precise to use Korean native apps)
+- Taxi/cabs: Kakao Taxi - [app store](https://apps.apple.com/us/app/kakao-t/id981110422), [google play](https://play.google.com/store/apps/details?id=com.kakao.taxi&pli=1) (there could be others)
+- Train: [Korail](https://www.korail.com/global/eng/main)
 
 ## Social laws in Korea
-- No talking in public transportation (bus, train, metro, etc.) — whispering is fine
-- No food/drinks in public transportation
-- No public displays of affection
-- No shoes indoors, and don’t put your feet on seats (transportation, benches in parks, etc.)
-- There are priority seats for the elderly, disabled people, and pregnant women (pink seats). Even if they are completely empty, don’t sit there
-- Absolutely no jaywalking or crossing the street at red lights
-- When giving and receiving items, use two hands
-- Do not bow with hands together 🙏🏻 (it’s not a Korean custom)
-- Don’t hug the first time you meet someone
-- Be mindful with Japanese-related topics, as there is a long cultural history. Avoid “same as in Japan?”
+![Photo credit ChatGPT, generated on 27th Apr 2026](./figs/social_laws_korea_chatgpt_2026_04_27.png)
+/// caption
+Photo credit ChatGPT, generated on 27th Apr 2026
+///
+
+??? more in details
+
+    - No talking in public transportation (bus, train, metro, etc.) — whispering is fine
+    - No food/drinks in public transportation
+    - No public displays of affection
+    - No shoes indoors, and don’t put your feet on seats (transportation, benches in parks, etc.)
+    - There are priority seats for the elderly, disabled people, and pregnant women (pink seats). Even if they are completely empty, don’t sit there
+    - Absolutely no jaywalking or crossing the street at red lights
+    - When giving and receiving items, use two hands
+    - Do not bow with hands together 🙏🏻 (it’s not a Korean custom)
+    - Don’t hug the first time you meet someone
+    - Be mindful with Japanese-related topics, as there is a long cultural history. Avoid “same as in Japan?”
 
 ## Transportation
 - Within Seoul: Naver Map or Kakao Map is extremely precise; either bus or metro should be straightforward to use
