@@ -5,6 +5,7 @@ author: Oh-hyeon Choung
 title: Oh-hyeon's Swiss Guide
 tags: [Switzerland, travel, guide]
 icon: lucide/map-pin-search
+comments: true
 ---
 
 # Oh-hyeon's Swiss Guide :ch:

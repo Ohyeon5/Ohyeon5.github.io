@@ -5,6 +5,7 @@ author: Oh-hyeon Choung
 title: Tasty Korean dishes
 tags: [Korea, travel, guide, food]
 icon: lucide/soup
+comments: true
 ---
 # Tasty Korean dishes :yum:
 

@@ -5,6 +5,7 @@ author: Oh-hyeon Choung
 title: Oh-hyeon's Guide to Korea
 tags: [Korea, travel, guide]
 icon: lucide/map-pin-search
+comments: true
 ---
 # Oh-hyeon's Guide to Korea :kr:
 
