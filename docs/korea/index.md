@@ -1,6 +1,6 @@
 ---
 created: 2026-04-25
-modified: 2026-04-27
+modified: 2026-04-28
 author: Oh-hyeon Choung
 title: Oh-hyeon's Guide to Korea
 icon: lucide/map-pin-search
@@ -66,7 +66,7 @@ Photo credit: [link](https://www.theseoulguide.com/wp-content/uploads/2021/11/na
 
 
 ## Interesting cultural experiences
-- Jjimjilbang: bath & spa
+- Jjimjilbang: bath & spa, as a child it was always our weekend activity :smile:
 
 <img src="https://cdn.shopify.com/s/files/1/0552/3665/7344/files/Benefits_of_Jjimjilbang_1024x1024.jpg?v=1718375009" alt="Jjimjilbang" style="width:300px;">
 /// caption
@@ -85,9 +85,14 @@ Photo credit: [link](https://cdn.shopify.com/s/files/1/0552/3665/7344/files/Bene
 Typical hiking activity, photo credit: [link](https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=51828&fileTy=MEDIA&fileNo=2)
 ///
 
-
-
 - K-BBQ (cook it yourself): find a not-so-fancy place where you cook your own meat. I believe you can do it :)
+- Arcade 오락실: you can find arcade in most of the major shopping streets
+
+<img src="https://roamingsonaa.com/wp-content/uploads/2019/01/neon-kpop-ddr-korean-arcade-scaled.jpeg" alt="Arcade" style="width:300px;">
+/// caption
+Arcade, photo credit: [link](https://roamingsonaa.com/wp-content/uploads/2019/01/neon-kpop-ddr-korean-arcade-scaled.jpeg)
+///
+
 
 ## Nice additions
 - Jeju Island: if you are staying more than 2 weeks, definitely worth visiting. The most touristic place in Korea, even for Koreans — but you’ll understand why once you’re there. A beautiful volcanic island with unique nature and cultural experiences (haenyeo — free divers).
@@ -98,7 +103,7 @@ Typical hiking activity, photo credit: [link](https://korean.visitseoul.net/comm
 
 ## Food reommendations -> [Tasty Korean dishes](food.md)
 
-## Additional suggestions :smile:
+## Additional suggestions :palms_up_together:
 <iframe
   src="https://www.google.com/maps/d/u/1/embed?mid=1aXdDZf-FTRRDirfKPxF0pWuOLgO8N8g&ehbc=2E312F"
   width="100%"

@@ -1,6 +1,6 @@
 ---
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-04-28
 author: Oh-hyeon Choung
 title: Tasty Korean dishes
 icon: lucide/soup
@@ -96,7 +96,8 @@ Photo credit: [Italyguksi](https://search.pstatic.net/common/?src=https%3A%2F%2F
 
 Also, Koreanized pizzas are pretty good. Let me quote my Italian friend: “It’s really good, but just don’t call it pizza :pinched_fingers:.”
 
-![Potato Pizza](https://pbs.twimg.com/media/G7dWysNb0AA_NdS?format=jpg&name=small)
+
+<img src="https://pbs.twimg.com/media/G7dWysNb0AA_NdS?format=jpg&name=small" alt="potato pizza" style="width:300px;">
 /// caption
 Potato pizza + sweet potato mousse + cheese dough; photo credit: [x: @YakBbap](https://x.com/YakBbap/status/1997160408063570108/photo/1)
 ///
