@@ -3,6 +3,7 @@ created: 2026-04-27
 modified: 2026-04-28
 author: Oh-hyeon Choung
 title: Tasty Korean dishes
+tags: [Korea, travel, guide, food]
 icon: lucide/soup
 ---
 # Tasty Korean dishes :yum:

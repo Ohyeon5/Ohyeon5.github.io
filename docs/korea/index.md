@@ -3,6 +3,7 @@ created: 2026-04-25
 modified: 2026-04-28
 author: Oh-hyeon Choung
 title: Oh-hyeon's Guide to Korea
+tags: [Korea, travel, guide]
 icon: lucide/map-pin-search
 ---
 # Oh-hyeon's Guide to Korea :kr:

@@ -1,8 +1,9 @@
 ---
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-04-28
 author: Oh-hyeon Choung
 title: Oh-hyeon's Swiss Guide
+tags: [Switzerland, travel, guide]
 icon: lucide/map-pin-search
 ---
 
