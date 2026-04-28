@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% if page.meta and (page.meta.author or page.meta.created or page.meta.modified) %}
+    <div style="font-size:0.8em; color:var(--md-default-fg-color--light); margin-bottom:1em; display:flex; gap:1.5em; flex-wrap:wrap; justify-content:flex-end;">
+      {% if page.meta.author %}
+        <span>By {{ page.meta.author }}</span>
+      {% endif %}
+      {% if page.meta.created %}
+        <span>Created: {{ page.meta.created }}</span>
+      {% endif %}
+      {% if page.meta.modified %}
+        <span>Last updated: {{ page.meta.modified }}</span>
+      {% endif %}
+    </div>
+  {% endif %}
+  {{ super() }}
+{% endblock %}

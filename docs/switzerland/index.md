@@ -7,7 +7,7 @@ tags: [Switzerland, travel, guide]
 icon: lucide/map-pin-search
 ---
 
-# Oh-hyeon's Swiss Guide :fondue:
+# Oh-hyeon's Swiss Guide :ch:
 
 A disclaimer first: this is just my personal take—treat it as suggestions and do whatever you want. I’m not responsible for anything.
 
