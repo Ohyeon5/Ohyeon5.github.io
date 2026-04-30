@@ -1,6 +1,6 @@
 ---
 created: 2026-04-27
-modified: 2026-04-28
+modified: 2026-04-30
 author: Oh-hyeon Choung
 title: Oh-hyeon's Swiss Guide
 tags: [Switzerland, travel, guide]
@@ -10,7 +10,7 @@ comments: true
 
 # Oh-hyeon's Swiss Guide :ch:
 
-A disclaimer first: this is just my personal take—treat it as suggestions and do whatever you want. I’m not responsible for anything.
+A disclaimer first: this is just my personal take, treat it as suggestions and do whatever you want. I’m not responsible for anything.
 
 ## Must-have Apps
 
