@@ -1,6 +1,6 @@
 ---
 created: 2026-04-27
-modified: 2026-04-28
+modified: 2026-04-30
 author: Oh-hyeon Choung
 title: Tasty Korean dishes
 tags: [Korea, travel, guide, food]
@@ -71,7 +71,7 @@ We call restaurants that sell Koreanized Chinese dishes “Chinese restaurants �
 - Tangsuyuk 탕수육: sweet and sour deep-fried pork (closer to authentic Chinese cuisine!)
 - If you’re traveling as a pair, order all three dishes and share them. It should cost under/around 50,000 won in total.
 
-![Chinese dishes](https://postfiles.pstatic.net/MjAyMzAxMjdfNzEg/MDAxNjc0ODA5Mzc5NzAz.aKtR-nzU9hyNP2okNz1UWmvvBVAp0arF5hyX8olD054g.3TNIcFRLSXu6stB5szPRs1zhulhuX2w38oZ13NkpeHog.JPEG.danielfood2379/KakaoTalk_20221031_204014400_08.jpg?type=w966)
+![Chinese dishes](./figs/chinese_dishes.jpg)
 /// caption
 Top - tangsuyuk 탕수육, bottom left - jjajangmyeon 짜장면, bottom right - jjamppong 짬뽕 ; Photo credit: [link](https://postfiles.pstatic.net/MjAyMzAxMjdfNzEg/MDAxNjc0ODA5Mzc5NzAz.aKtR-nzU9hyNP2okNz1UWmvvBVAp0arF5hyX8olD054g.3TNIcFRLSXu6stB5szPRs1zhulhuX2w38oZ13NkpeHog.JPEG.danielfood2379/KakaoTalk_20221031_204014400_08.jpg?type=w966)
 ///

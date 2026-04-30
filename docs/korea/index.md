@@ -75,7 +75,7 @@ Photo credit: [link](https://www.theseoulguide.com/wp-content/uploads/2021/11/na
 Photo credit: [link](https://cdn.shopify.com/s/files/1/0552/3665/7344/files/Benefits_of_Jjimjilbang_1024x1024.jpg?v=1718375009)
 ///
 
-- Facial / hair care
+- Facial / hair care: search facial and hair care online. It feels really good and affordable (150,000 won (85 CHF) - 300,000 won (170 CHF)). Sadly, there are a lot of “scams,” in the sense that they keep charging you more during the treatment. I’m not great at dealing with this either, but one useful trick is to ask upfront how much it will cost in total.
 - Hiking: 70% of the Korean peninsula is covered with mountains, but the hiking culture is very different from Switzerland, for example
     - Follow the trails (definitely no off-road)
     - Gimbap + cup noodles are a must
