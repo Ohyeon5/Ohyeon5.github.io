@@ -1,8 +1,12 @@
 # Oh-hyeon's Personal Page
 
-<div style="display:flex; align-items:flex-start; gap:1.5em;">
-  <img src="./figs/ohhyeon_mountains.jpeg" alt="Oh-hyeon in the mountains" style="width:220px; flex-shrink:0; border-radius:8px;">
-  <div>
+<style>
+.profile-img { width: 220px; flex-shrink: 0; }
+@media (max-width: 480px) { .profile-img { width: 100%; } }
+</style>
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:1.5em;">
+  <img src="./figs/ohhyeon_mountains.jpeg" alt="Oh-hyeon in the mountains" class="profile-img" style="border-radius:8px;">
+  <div style="flex:1; min-width:200px;">
   <p>Hi, I'm Oh-hyeon, a <a href="korea/index.md">Korean</a> living in <a href="switzerland/index.md">Switzerland</a>. I'm an industrial ML/AI developer with a background in computational neuroscience.</p>
   <p>
   At work, I develop and research ML/AI systems that support product development across chemistry, medical imaging, computer vision, and tabular data. I enjoy collaborating closely with domain experts via interactive user interface throughout the entire ideation-to-delivery process.

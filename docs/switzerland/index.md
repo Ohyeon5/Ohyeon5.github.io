@@ -87,20 +87,20 @@ Let's say, you visited the `top of Europe`, Junfraujoch, spent a fortune, and no
 
 ![hiking tab](./figs/choose_hiking.jpeg)
 
-<div style="display:flex; align-items:flex-start; gap:1.5em; margin-bottom:1.5em;">
-  <div style="flex:1;">2. Look for <strong>green highlighted hiking trails</strong>, these are well-maintained. Select a trail (here: the Eiger Trail). Read the description carefully and check whether it matches your fitness level. If you are new to mountain hiking, I'd avoid trails with more than 1200 m elevation gain or longer than 6 hours. But ultimately, it's your call :smile:.</div>
-  <img src="./figs/eiger_trail.jpeg" alt="hiking trails" style="width:180px; flex-shrink:0;">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:1.5em; margin-bottom:1.5em;">
+  <div style="flex:1; min-width:200px;">2. Look for <strong>green highlighted hiking trails</strong>, these are well-maintained. Select a trail (here: the Eiger Trail). Read the description carefully and check whether it matches your fitness level. If you are new to mountain hiking, I'd avoid trails with more than 1200 m elevation gain or longer than 6 hours. But ultimately, it's your call.</div>
+  <img src="./figs/eiger_trail.jpeg" alt="hiking trails" style="width:180px; flex-shrink:0; max-width:100%;">
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:1.5em; margin-bottom:1.5em;">
-  <div style="flex:1;">3. If you are not prepared for snow, check conditions first. Tap the <strong>layers button</strong> in the top-right corner and enable the <strong>snow depth layer</strong>.</div>
-  <div style="display:flex; gap:8px; flex-shrink:0;">
-    <img src="./figs/layers.jpeg" alt="layers button" style="width:180px;">
-    <img src="./figs/choose_snow_layer.jpeg" alt="snow layer" style="width:180px;">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:1.5em; margin-bottom:1.5em;">
+  <div style="flex:1; min-width:200px;">3. If you are not prepared for snow, check conditions first. Tap the <strong>layers button</strong> in the top-right corner and enable the <strong>snow depth layer</strong>.</div>
+  <div style="display:flex; gap:8px; flex-shrink:0; max-width:100%;">
+    <img src="./figs/layers.jpeg" alt="layers button" style="width:180px; max-width:50%;">
+    <img src="./figs/choose_snow_layer.jpeg" alt="snow layer" style="width:180px; max-width:50%;">
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:1.5em; margin-bottom:1.5em;">
-  <div style="flex:1;">4. The snow depth is now overlaid on the map. Uh-oh, the Eiger Trail is still covered in snow. Time to pick another trail!</div>
-  <img src="./figs/snow_layer_on.jpeg" alt="snow on the map" style="width:180px; flex-shrink:0;">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:1.5em; margin-bottom:1.5em;">
+  <div style="flex:1; min-width:200px;">4. The snow depth is now overlaid on the map. Uh-oh, the Eiger Trail is still covered in snow. Time to pick another trail!</div>
+  <img src="./figs/snow_layer_on.jpeg" alt="snow on the map" style="width:180px; flex-shrink:0; max-width:100%;">
 </div>
