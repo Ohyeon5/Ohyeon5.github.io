@@ -1,5 +1,5 @@
 ---
-created: 2026-04-27
+created: 2026-05-01
 modified: 2026-05-01
 author: Oh-hyeon Choung
 title: Oh-hyeon's Swiss Guide
@@ -104,3 +104,5 @@ Let's say, you visited the `top of Europe`, Junfraujoch, spent a fortune, and no
   <div style="flex:1; min-width:200px;">4. The snow depth is now overlaid on the map. Uh-oh, the Eiger Trail is still covered in snow. Time to pick another trail!</div>
   <img src="./figs/snow_layer_on.jpeg" alt="snow on the map" style="width:180px; flex-shrink:0; max-width:100%;">
 </div>
+
+Please keep in mind that snow line could be around 2000m even in mid July :mountain_snow:.
