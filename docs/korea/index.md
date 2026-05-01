@@ -1,6 +1,6 @@
 ---
 created: 2026-04-25
-modified: 2026-04-30
+modified: 2026-05-01
 author: Oh-hyeon Choung
 title: Oh-hyeon's Guide to Korea
 tags: [Korea, travel, guide]
@@ -29,7 +29,7 @@ Photo credit ChatGPT, generated on 27th Apr 2026
     - No public displays of affection
     - No shoes indoors, and don’t put your feet on seats (transportation, benches in parks, etc.)
     - There are priority seats for the elderly, disabled people, and pregnant women (pink seats). Even if they are completely empty, don’t sit there
-    - Absolutely no jaywalking or crossing the street at red lights
+    - Absolutely no jaywalking or crossing the street at red lights, you may get fined
     - When giving and receiving items, use two hands
     - Do not bow with hands together 🙏🏻 (it’s not a Korean custom)
     - Don’t hug the first time you meet someone
