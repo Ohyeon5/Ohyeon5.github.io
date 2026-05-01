@@ -1,16 +1,19 @@
 ---
 created: 2026-04-27
-modified: 2026-04-30
+modified: 2026-05-01
 author: Oh-hyeon Choung
 title: Oh-hyeon's Swiss Guide
 tags: [Switzerland, travel, guide]
 icon: lucide/map-pin-search
 comments: true
+draft: true
 ---
 
 # Oh-hyeon's Swiss Guide :ch:
 
 A disclaimer first: this is just my personal take, treat it as suggestions and do whatever you want. I’m not responsible for anything.
+
+You decided to travel to Switzerland, so I’ll assume you expect beautiful nature. First of all, come in summer (mid-July to early September), unless you’re visiting in winter (December to March) for skiing. Thanks to (?) climate change, this year’s spring (April 2026) has been very sunny and beautiful, but it’s usually quite rainy in spring and autumn.
 
 ## Must-have Apps
 
