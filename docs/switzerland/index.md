@@ -15,6 +15,12 @@ A disclaimer first: this is just my personal take, treat it as suggestions and d
 
 You decided to travel to Switzerland, so I’ll assume you expect beautiful nature. First of all, come in summer (mid-July to early September), unless you’re visiting in winter (December to March) for skiing. Thanks to (?) climate change, this year’s spring (April 2026) has been very sunny and beautiful, but it’s usually quite rainy in spring and autumn.
 
+My preferred way of traveling in Switzerland is to take public transportation :train2: on a sunny day :sun_with_face: and then go for a hike :mountain:.
+
+- Public transportation :train2: in Switzerland is more than just great. You can get almost anywhere, and most of the time, it’s on time. Google Maps works fine, but the [SBB app](#must-have-apps) is better.
+- Mountain weather :partly_sunny: changes quickly, so check [MeteoSwiss or MeteoBlue](#must-have-apps).
+- There are also many nationally maintained hiking trails :hiking_boot:, check them out on the [SwitzerlandMobility app](#must-have-apps).
+
 ## Must-have Apps
 
 <div style="display:flex; gap:12px;">
@@ -42,3 +48,35 @@ You decided to travel to Switzerland, so I’ll assume you expect beautiful natu
     <span style="text-align:center;">Official hiking paths: Switzerland Mobility</span>
   </div>
 </div>
+
+## Hiking rules
+![hiking rules](./figs/hiking_rules.png)
+/// caption
+Photo credit ChatGPT, generated on 1st May 2026
+///
+
+??? more in details
+
+    - Stay on marked trails unless clearly allowed otherwise.
+    - Respect private property, farms, and grazing animals.
+    - Take all trash with you (“leave no trace”).
+    - Wild camping is restricted in many areas, check local rules.
+    - Dogs may need to be leashed, especially near livestock/wildlife.
+    - Do not disturb wildlife or pick protected plants.
+    - Give way appropriately: uphill hikers usually have priority.
+    - Emergency number in Switzerland: 144 (ambulance and rescue services).
+
+## How to pick a hiking trail
+
+There are hiking trails in almost every spot in Switzerland. Here are some signs you will see, and more [in details](https://schweizmobil.ch/en/planning-wl?origin=hike#categories-of-difficulty-signalisation-wl):
+
+| Sign | Difficulty | Notes |
+|---|---|---|
+| Yellow diamond ![yellow diamond](./figs/yellow_diamond.png) | Easy | Family-friendly |
+| White-red-white strap ![red trail](./figs/red_trail.png) | Intermediate | Some exposed sections |
+| White-blue-white strap ![blue trail](./figs/blue_trail.png) | Alpine | Self-securing gear may be needed; hike at your own risk |
+| No marking (off-road) | — | Avoid |
+
+/// caption
+Photo credit, and more: [link](https://schweizmobil.ch/en/planning-wl?origin=hike#categories-of-difficulty-signalisation-wl)
+///
