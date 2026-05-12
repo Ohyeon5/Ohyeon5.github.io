@@ -21,6 +21,11 @@ features = [
 [project.theme.icon]
 logo = "lucide/smile"
 
+# analytics
+[project.extra.analytics]
+provider = "umami"
+property = "umami-analytics"
+
 # Palette toggle for light mode
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"

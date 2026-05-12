@@ -1,0 +1,10 @@
+<script defer src="https://cloud.umami.is/script.js" data-website-id="efdb4521-77cb-473c-bce5-4f292e29ad89"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    location$.subscribe(function(url) {
+      if (typeof umami !== "undefined") {
+        umami.track()
+      }
+    })
+  })
+</script>
