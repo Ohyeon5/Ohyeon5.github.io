@@ -8,7 +8,8 @@ nav = [
   {"Home" = "index.md"},
   {"Korean Trip Guide" = [
     "korea/index.md",
-    "korea/food.md"]}
+    "korea/food.md"]},
+    {"Swiss Trip Guide" = "switzerland/index.md"}
 ]
 
 [project.theme]
