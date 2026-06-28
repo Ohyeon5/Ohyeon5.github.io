@@ -1,6 +1,6 @@
 ---
 created: 2026-04-27
-modified: 2026-04-30
+modified: 2026-06-28
 author: Oh-hyeon Choung
 title: Tasty Korean dishes
 tags: [Korea, travel, guide, food]
@@ -41,9 +41,9 @@ Photo credit: [link](https://cdn.mygoyang.com/news/photo/202404/79022_112801_491
 
 - Fried Chicken and Beer 치맥 /Chi-Mac/: Literally, the deep-fried chicken + beer combination is really popular in Korea. You can find many different fried chicken flavors, so it’s worth trying. Chi-Mac places are everywhere.
 
-![ChiMac](https://i.namu.wiki/i/zPkdsHY66COU-dfrfuMYMcmCxucYdCMbo-8ahVcyllEJxDUgifRoB7kr6p6gHtwkRCYMkEW1AxzzmqsqClbViVn0nQC2E8ZIzJzll9f-13KbSyRNJege-cC5AON-Gm64ZEmr4o8b70pK48ejOcsILxy309FmBtB2xst_6Be37v8.webp)
+![ChiMac](https://i.namu.wiki/i/0jI85R1XlR3UhfSGn1GZcHLIdP2xgtfpZkWFeDyG1WUHzwAvWsceGsJ7rZstyXQueUtKihre8FeJ1Oy0sXe-KegFhLGyr4mdHsm6MgotjWmzZevTGvW8I5Fzk1smHSSGaX05FGHsFe9pQDFgcdhoawGUBEG6IOF-GgKTD5sFHcY.webp)
 /// caption
-Photo credit: [link](https://i.namu.wiki/i/zPkdsHY66COU-dfrfuMYMcmCxucYdCMbo-8ahVcyllEJxDUgifRoB7kr6p6gHtwkRCYMkEW1AxzzmqsqClbViVn0nQC2E8ZIzJzll9f-13KbSyRNJege-cC5AON-Gm64ZEmr4o8b70pK48ejOcsILxy309FmBtB2xst_6Be37v8.webp)
+Photo credit: [link](https://i.namu.wiki/i/0jI85R1XlR3UhfSGn1GZcHLIdP2xgtfpZkWFeDyG1WUHzwAvWsceGsJ7rZstyXQueUtKihre8FeJ1Oy0sXe-KegFhLGyr4mdHsm6MgotjWmzZevTGvW8I5Fzk1smHSSGaX05FGHsFe9pQDFgcdhoawGUBEG6IOF-GgKTD5sFHcY.webp)
 ///
 
 - Other Korean dishes I really like, you will be able to find them anywhere, search the names, price range 10,000 ~ 20,000 won.
